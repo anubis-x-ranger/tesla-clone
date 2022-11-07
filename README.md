@@ -15,4 +15,4 @@ The page will reload if you make edits.<br />
 
 ## Screenshots
 
-
+<img src="https://raw.githubusercontent.com/anubis-x-ranger/tesla-clone/main/public/images/sstesla1.PNG">
